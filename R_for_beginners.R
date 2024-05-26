@@ -95,7 +95,6 @@ regression$
 
 new_GPA <- data.frame(GPA,GPAhat=regression$fitted.values , Residuals=regression$residuals)
 
-)
 
 
 ?round
